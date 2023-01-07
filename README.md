@@ -49,3 +49,11 @@ Laptops, Desktops and Tablet PCs
 
 ## Dataset 
 Data was collected from https://open-power-system-data.org/ which is a free open source platform with data on power systems for 37 European countries. But we chose to focus on a specific country, Germany, due to having the highest proportion of renewable energy than any other country(about 46 percent of its energy come from solar, wind, biomass) and hence it is a good indicator of where the rest of the world is headed. 
+
+
+
+## Team
+- Mehak Aggarwal
+- Sohali Baisla
+- Parul Mann
+- Anmol Jha
