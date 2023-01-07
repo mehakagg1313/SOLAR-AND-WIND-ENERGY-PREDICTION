@@ -1,8 +1,31 @@
 # SOLAR-AND-WIND-ENERGY-PREDICTION
 
-SOLAR AND WIND ENERGY PREDICTION using ML/DL models
+SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
 
-Table of Contents
+
+   
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#salient-features">Salient Features</a></li>
+       <li><a href="#built-with">Built With</a></li>
+        <li><a href="#compatible-platforms">Compatible Platforms</a></li>    
+      </ul>
+    </li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
+      </ul>
+  </ol>
+</details>
 
 ## About the project
 * Solar energy is one of several sustainable sources that is becoming increasingly important in the energy sector due to its potential to cut carbon emissions and counteract growing electricity prices. The main issue with solar energy is that it cannot be used due to the constantly shifting and unpredictable weather, cloud cover, climate, and seasons. As a result, solar energy generation varies. Therefore, resource planners and businesses are looking for models that take these uncertainties into account for the daily design and management of solar energy production, which could enable them to meet consumer demand and supply regardless of weather conditions.
