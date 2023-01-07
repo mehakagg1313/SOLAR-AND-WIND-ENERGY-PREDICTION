@@ -16,9 +16,9 @@ SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
         <li><a href="#compatible-platforms">Compatible Platforms</a></li>    
       </ul>
     </li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Description">Description</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#dataset">dataset</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -47,13 +47,15 @@ Laptops, Desktops and Tablet PCs
 * ML Models: Lasso Regression, Ridge Regression, Decision Tree, SVM, Random Forest
 * DL Model: LSTM
 
-## Dataset 
+
+## Description
+### Dataset 
 Data was collected from https://open-power-system-data.org/ which is a free open source platform with data on power systems for 37 European countries. But we chose to focus on a specific country, Germany, due to having the highest proportion of renewable energy than any other country(about 46 percent of its energy come from solar, wind, biomass) and hence it is a good indicator of where the rest of the world is headed. 
 
 
 
-## Team
+### Team
 - Mehak Aggarwal
-- Sohali Baisla
-- Parul Mann
-- Anmol Jha
+- Sonanshi Goel
+- Shambhavi Rai
+- Princy Singhal
