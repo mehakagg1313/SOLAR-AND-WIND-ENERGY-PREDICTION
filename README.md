@@ -62,11 +62,11 @@ Data was collected from https://open-power-system-data.org/ which is a free open
 
 ### DataPreprocessing
 #### Removing null values
-          1.For solar generation actual, wherever there is a null value, it has been filled with the value for a day before.For the first day of the month, since   there is no previous day value, it has been filled with 0 assuming there is no solar generation before 6 am.Then we replaced leftover Nan values with mean of the data of solar generation actual 
-          2. For wind generation actual, wherever there is a null value, it has been filled with the mean value of the entire wind generation actual column.
+1.For solar generation actual, wherever there is a null value, it has been filled with the value for a day before.For the first day of the month, since   there is no previous day value, it has been filled with 0 assuming there is no solar generation before 6 am.Then we replaced leftover Nan values with mean of the data of solar generation actual 
+2. For wind generation actual, wherever there is a null value, it has been filled with the mean value of the entire wind generation actual column.
 
 #### Correlation analysis 
-      It show that some features are more correlated to target variables. Solar profile is most correlated with solar generation output. In case of wind energy, wind profile, wind onshore profile, wind onshore generation followed by wind offshore profile and wind offshore generation.
+It show that some features are more correlated to target variables. Solar profile is most correlated with solar generation output. In case of wind energy, wind profile, wind onshore profile, wind onshore generation followed by wind offshore profile and wind offshore generation.
 
 ![image](https://user-images.githubusercontent.com/87893594/211166795-6f554565-dee5-4d3d-8998-0795c909fd10.png)
 
