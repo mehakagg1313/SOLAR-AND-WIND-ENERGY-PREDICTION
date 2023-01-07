@@ -46,6 +46,7 @@ Laptops, Desktops and Tablet PCs
 * Prediction models: ML/DL models
 * ML Models: Lasso Regression, Ridge Regression, Decision Tree, SVM, Random Forest
 * DL Model: LSTM
+* Concordium Used
 
 
 ## Description
