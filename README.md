@@ -54,7 +54,7 @@ Laptops, Desktops and Tablet PCs
 ### Dataset 
 Data was collected from https://open-power-system-data.org/ which is a free open source platform with data on power systems for 37 European countries. But we chose to focus on a specific country, Germany, due to having the highest proportion of renewable energy than any other country(about 46 percent of its energy come from solar, wind, biomass) and hence it is a good indicator of where the rest of the world is headed. The data file contained about 16 variables like utc_time stamp,solar capacity,wind capacity,solar profile, wind profile,wind_onshore, wind_offshore profile.
 
-###Data Pre-processing 
+###DataPreprocessing 
 
 A.Removing missing values in ground truth values (if any)
 1. For solar generation actual, wherever there is a null value, it has been filled with the value for a day before.For the first day of the month, since there is no previous day value, it has been filled with 0 assuming there is no solar generation before 6 am.Then we replaced leftover Nan values with mean of the data of solar generation actual 
