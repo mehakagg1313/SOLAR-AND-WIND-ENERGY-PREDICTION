@@ -29,8 +29,6 @@ SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
         
       </ul>
     </li>
-    <li><a href="#navigating-through-the-app">Navigating through the App</a></li><ul>
-      </ul>
   </ol>
 </details>
 
