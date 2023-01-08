@@ -3,7 +3,7 @@ SOLAR AND WIND ENERGY PREDICTION
 </h1>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=BQPUwUDnKRE" target="_blank_">Video Demo</a>
+<a href="https://www.youtube.com/watch?v=BQPUwUDnKRE" target="_blank">Video Demo</a>
 </p>
 
 SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
