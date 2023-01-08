@@ -31,7 +31,7 @@ SOLAR AND WIND ENERGY PREDICTION using Machine and Deep Learning models
             <li><a href="Removing Null Values">Removing Null Values</a></li>
             <li><a href="Correlation analysis">Correlation analysis</a></li>
             <li><a href="Feature Importance">Feature Importance</a></li>
-         <ul>
+         </ul>
       </ul>
     </li>
     <li>
